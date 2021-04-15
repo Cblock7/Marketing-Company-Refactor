@@ -1,3 +1,3 @@
 # MarketingCompanyRefactor
-# Marketing-Company-Refactor
-# Marketing-Company-Refactor
+
+# In this assignment I fixed the semantics of the html and css files to be more descriptive. I swapped out many generic div elements for things like headers, sections, nav, and footers. I also cleaned up the line structure to be easier to read.
